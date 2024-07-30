@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/react-memory/static/css/main.1892afc7.css",
-    "main.js": "/react-memory/static/js/main.b5cd8819.js",
+    "main.js": "/react-memory/static/js/main.6e1410ff.js",
     "static/media/StratosSkyeng.woff2": "/react-memory/static/media/StratosSkyeng.ce93393e831d32412096.woff2",
     "static/media/celebration.png": "/react-memory/static/media/celebration.2577e3c3835ac1f32429.png",
     "static/media/dead.png": "/react-memory/static/media/dead.bfb3f81b5110f1b62252.png",
@@ -12,10 +12,10 @@
     "static/media/spades.svg": "/react-memory/static/media/spades.93f2e7c8261b046c228b40965b4493ec.svg",
     "static/media/diamonds.svg": "/react-memory/static/media/diamonds.6d6202122f9a41366f7da20cfe4cf5b7.svg",
     "main.1892afc7.css.map": "/react-memory/static/css/main.1892afc7.css.map",
-    "main.b5cd8819.js.map": "/react-memory/static/js/main.b5cd8819.js.map"
+    "main.6e1410ff.js.map": "/react-memory/static/js/main.6e1410ff.js.map"
   },
   "entrypoints": [
     "static/css/main.1892afc7.css",
-    "static/js/main.b5cd8819.js"
+    "static/js/main.6e1410ff.js"
   ]
 }
