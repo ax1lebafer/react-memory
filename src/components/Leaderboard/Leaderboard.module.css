@@ -1,0 +1,66 @@
+.leaderboard {
+    padding-left: calc(50% - 475px);
+    padding-right: calc(50% - 475px);
+    padding-top: 50px;
+}
+
+.header {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    flex-direction: row;
+    flex-wrap: wrap;
+    margin-bottom: 40px;
+}
+
+.headerTitle {
+    color: rgb(255, 255, 255);
+    font-family: StratosSkyeng;
+    font-size: 24px;
+    font-weight: 400;
+}
+
+.section {
+    display: flex;
+    gap: 15px;
+    flex-direction: column;
+}
+
+.sectionTop {
+    background-color: #FFFFFF;
+    border-radius: 12px;
+    display: flex;
+    padding: 16px 20px;
+    justify-content: space-between;
+    gap: 66px;
+}
+
+.sectionText {
+    color: rgb(153, 153, 153);
+    font-family: StratosSkyeng;
+    font-size: 24px;
+    font-weight: 400;
+}
+
+.textPosition {
+    width: 178px;
+}
+
+.textUser {
+    width: 227px;
+}
+
+.textAchievement {
+    width: 194px;
+}
+
+.textTime {
+    width: 102px;
+}
+
+.loader {
+    font-size: 24px;
+    color: #FFFFFF;
+    font-family: StratosSkyeng;
+    text-align: center;
+}

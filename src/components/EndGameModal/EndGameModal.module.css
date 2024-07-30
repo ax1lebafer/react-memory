@@ -1,0 +1,96 @@
+.modal {
+  width: 480px;
+  /* height: 459px; */
+  border-radius: 12px;
+  background: #c2f5ff;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  padding: 40px 0 48px 0;
+}
+
+.image {
+  width: 96px;
+  height: 96px;
+  margin-bottom: 8px;
+}
+
+.title {
+  color: #004980;
+  font-variant-numeric: lining-nums proportional-nums;
+  font-family: StratosSkyeng;
+  font-size: 40px;
+  font-style: normal;
+  font-weight: 400;
+  line-height: 48px;
+  text-align: center;
+
+  margin-bottom: 28px;
+}
+
+.leaderboardInfo {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+
+.nameInput {
+  width: 246px;
+  box-sizing: border-box;
+  outline: none;
+  border: none;
+  padding: 5px 10px;
+  border-radius: 10px;
+  height: 45px;
+  font-size: 24px;
+  margin-bottom: 20px;
+  text-align: center;
+}
+
+.nameInput::placeholder {
+  color: rgb(153, 153, 153);
+  font-family: StratosSkyeng;
+  font-size: 24px;
+  font-weight: 400;
+  /* line-height: 32px; */
+  letter-spacing: 0%;
+  text-align: center;
+}
+
+.saveButton {
+  font-size: 18px;
+}
+
+.description {
+  color: #000;
+  font-variant-numeric: lining-nums proportional-nums;
+  font-family: StratosSkyeng;
+  font-size: 24px;
+  font-style: normal;
+  font-weight: 400;
+  line-height: 32px;
+
+  margin-bottom: 10px;
+  margin-top: 10px;
+}
+
+.time {
+  color: #000;
+  font-family: StratosSkyeng;
+  font-size: 64px;
+  font-style: normal;
+  font-weight: 400;
+  line-height: 72px;
+
+  margin-bottom: 40px;
+}
+
+.leaderboardLink {
+  color: rgb(0, 73, 128);
+  font-family: StratosSkyeng;
+  font-size: 18px;
+  font-weight: 400;
+  line-height: 32px;
+  margin-top: 18px;
+}

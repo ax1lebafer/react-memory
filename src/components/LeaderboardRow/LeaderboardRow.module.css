@@ -1,0 +1,35 @@
+.sectionTop {
+    background-color: #FFFFFF;
+    border-radius: 12px;
+    display: flex;
+    padding: 16px 20px;
+    justify-content: space-between;
+    gap: 66px;
+    position: relative;
+}
+
+.sectionText {
+    color: #000000;
+    font-family: StratosSkyeng;
+    font-size: 24px;
+    font-weight: 400;
+}
+
+.sectionIcons {
+    display: flex;
+    width: 194px;
+    gap: 6px;
+    position: relative;
+}
+
+.textPosition {
+    width: 178px;
+}
+
+.textUser {
+    width: 227px;
+}
+
+.textTime {
+    width: 102px;
+}
